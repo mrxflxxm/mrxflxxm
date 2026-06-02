@@ -32,6 +32,10 @@
 ### 🖥️ Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/Blazor_WASM-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor_Server-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Radzen-6C63FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -72,29 +76,42 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="200">
       <img width="50" src="https://skillicons.dev/icons?i=dotnet"/><br/>
       <b>REST APIs</b><br/>
       <sub>ASP.NET Core · Swagger<br/>Quartz.NET · JWT Auth</sub>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="200">
       <img width="50" src="https://skillicons.dev/icons?i=cs"/><br/>
       <b>Web Dashboards</b><br/>
-      <sub>Blazor WASM · Radzen<br/>ApexCharts · Excel export</sub>
+      <sub>Blazor WASM/Server · Radzen<br/>ApexCharts · Excel export</sub>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="200">
       <img width="50" src="https://skillicons.dev/icons?i=laravel"/><br/>
       <b>Laravel Apps</b><br/>
-      <sub>MVC · Eloquent ORM<br/>Queues · API resources</sub>
+      <sub>MVC · Livewire · Eloquent<br/>Queues · API resources</sub>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="200">
       <img width="50" src="https://skillicons.dev/icons?i=redis"/><br/>
       <b>Integrations</b><br/>
-      <sub>Redis cache · Payment APIs<br/>XML/Excel · OpenXml</sub>
+      <sub>Redis · Payment APIs<br/>XML/Excel · OpenXml</sub>
     </td>
   </tr>
 </table>
 </div>
+
+---
+
+## 🏗️ Patterns & Architecture
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logo=blueprint&logoColor=6C63FF&labelColor=0D1117&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-0D1117?style=for-the-badge&logoColor=8B5CF6&labelColor=0D1117&color=8B5CF6"/>
+  <img src="https://img.shields.io/badge/MVC-0D1117?style=for-the-badge&logoColor=512BD4&labelColor=0D1117&color=512BD4"/>
+  <img src="https://img.shields.io/badge/REST_API_Design-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9A3&labelColor=0D1117&color=00D9A3"/>
+  <img src="https://img.shields.io/badge/Service_Layer-0D1117?style=for-the-badge&logoColor=F59E0B&labelColor=0D1117&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/Background_Jobs-0D1117?style=for-the-badge&logo=apachekafka&logoColor=DC382D&labelColor=0D1117&color=DC382D"/>
+</p>
 
 ---
 
@@ -104,8 +121,9 @@
 
 | Area | Tools |
 |:---|:---|
-| 🎨 UI Components | Radzen.Blazor · Blazor-ApexCharts · Blazored.Toast |
-| ⏱️ Scheduling | Quartz.NET · Laravel Queues |
+| 🎨 UI Components | Radzen.Blazor · Blazor-ApexCharts · Blazored.Toast · MudBlazor |
+| ⚡ Reactive UI | Laravel Livewire · Alpine.js |
+| ⏱️ Scheduling | Quartz.NET · Laravel Queues · Laravel Horizon |
 | 📊 Excel / Docs | EPPlus · NPOI · DocumentFormat.OpenXml |
 | 💾 State & Cache | Blazored.LocalStorage · Redis |
 | 💳 Payments | Stripe SDK · PayPal REST API · ArCa · Evocabank API |
@@ -115,6 +133,60 @@
 | 🔭 Debugging | Laravel Telescope · Laravel Horizon |
 | 🌐 HTTP Client | Guzzle · Laravel HTTP Client |
 
+</div>
+
+---
+
+## 📈 Experience
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" src="https://skillicons.dev/icons?i=php"/>
+    </td>
+    <td width="120"><b>PHP / Laravel</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████░░░░-4_years-777BB4?style=flat-square&labelColor=1a1a2e"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="40" src="https://skillicons.dev/icons?i=cs"/>
+    </td>
+    <td><b>C# / .NET</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████░░░░░░░░-3_years-239120?style=flat-square&labelColor=1a1a2e"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="40" src="https://skillicons.dev/icons?i=mysql"/>
+    </td>
+    <td><b>SQL Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████░░░░-4+_years-4479A1?style=flat-square&labelColor=1a1a2e"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="40" src="https://skillicons.dev/icons?i=redis"/>
+    </td>
+    <td><b>Redis / Cache</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████░░░░░░░░░░░░-2+_years-DC382D?style=flat-square&labelColor=1a1a2e"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="40" src="https://skillicons.dev/icons?i=git"/>
+    </td>
+    <td><b>Git</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████░░░░░░░░-3+_years-F05032?style=flat-square&labelColor=1a1a2e"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
