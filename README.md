@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases & Cache
@@ -166,24 +167,6 @@
     <td><b>SQL Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/████████████████░░░░-4+_years-4479A1?style=flat-square&labelColor=1a1a2e"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="40" src="https://skillicons.dev/icons?i=redis"/>
-    </td>
-    <td><b>Redis / Cache</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/████████░░░░░░░░░░░░-2+_years-DC382D?style=flat-square&labelColor=1a1a2e"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="40" src="https://skillicons.dev/icons?i=git"/>
-    </td>
-    <td><b>Git</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/████████████░░░░░░░░-3+_years-F05032?style=flat-square&labelColor=1a1a2e"/>
     </td>
   </tr>
 </table>
