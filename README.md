@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArCa-Armenian_Card-DC143C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Custom_Payment_Gateways-6C63FF?style=for-the-badge&logo=cashapp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Evocabank-Payment_API-00A651?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -149,10 +150,6 @@
 <p align="center">
   <a href="mailto:vegauser777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://t.me/mrxflxxm">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
