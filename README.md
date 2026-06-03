@@ -16,12 +16,12 @@
 
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,html,css,js,mysql,postgres,redis,docker,git,visualstudio,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,html,css,js,mysql,postgres,redis,docker,git,github,visualstudio,postman,linux,windows,nginx&perline=6" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Evocabank-Payment_API-00A651?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 🚀 What I Build
 
@@ -76,7 +76,7 @@
 </table>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 🏗️ Patterns & Architecture
 
@@ -113,7 +113,7 @@
 </table>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 📦 Favorite Libraries
 
@@ -144,7 +144,7 @@
 </table>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 📈 Experience
 
@@ -198,15 +198,17 @@
 </table>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrxflxxm&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&icon_color=6C63FF&card_width=500" />
+  <a href="https://wakatime.com/@ce36f782-04a9-4162-b5c2-83604d6ee1a7">
+    <img src="https://wakatime.com/badge/user/ce36f782-04a9-4162-b5c2-83604d6ee1a7.svg?style=for-the-badge" alt="Total time coded since Jun 3 2026" />
+  </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 📊 Activity Graph
 
@@ -214,7 +216,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrxflxxm&bg_color=0D1117&color=8B5CF6&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 💡 About Me
 
@@ -228,7 +230,7 @@
 🔐  Mostly                  private repos — but the stack is real
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 🐍 Contribution Snake
 
@@ -240,7 +242,7 @@
   </picture>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
 ## 📫 Contact
 
