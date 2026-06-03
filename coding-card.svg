@@ -30,93 +30,70 @@
   <circle cx="56" cy="19" r="5.5" fill="#28C840"/>
   <text x="410" y="24" text-anchor="middle"
         font-family="Courier New,Courier,monospace" font-size="11" fill="#8b949e"
-  >coding-dna.svg — updating soon...</text>
+  >coding-dna.svg — 2026-06-03  10:26 UTC</text>
 
   <!-- panel divider -->
   <line x1="395" y1="48" x2="395" y2="370" stroke="#30363d" stroke-width="1"/>
 
-  <!-- ── LEFT: radar ── -->
+  <!-- ── LEFT: radar ─────────────────────────────────────────── -->
   <text x="195" y="64" text-anchor="middle"
         font-family="Courier New,Courier,monospace" font-size="10.5" fill="#8b949e"
   >▸ skill radar</text>
-
-  <!-- grid rings -->
-  <polygon points="195.0,100.5 262.8,133.9 262.8,218.0 195.0,251.5 127.2,218.0 127.2,133.9" fill="none" stroke="#6C63FF" stroke-width="0.7" opacity="0.17"/>
-  <polygon points="195.0,57.9 327.5,111.8 327.5,218.0 195.0,272.0 62.5,218.0 62.5,111.8" fill="none" stroke="#6C63FF" stroke-width="0.7" opacity="0.20"/>
-  <polygon points="195.0,100.0 312.0,167.0 312.0,269.0 195.0,336.0 78.0,269.0 78.0,167.0" fill="none" stroke="#6C63FF" stroke-width="0.7" opacity="0.23"/>
-
-  <!-- axis lines -->
+  <polygon points="195.0,179.1 228.7,198.5 228.7,237.5 195.0,256.9 161.3,237.5 161.3,198.5" fill="none" stroke="#6C63FF" stroke-width="0.7" opacity="0.15"/>
+  <polygon points="195.0,140.1 262.4,179.1 262.4,256.9 195.0,295.9 127.6,256.9 127.6,179.1" fill="none" stroke="#6C63FF" stroke-width="0.7" opacity="0.17"/>
+  <polygon points="195.0,100.0 297.2,159.0 297.2,277.0 195.0,336.0 92.8,277.0 92.8,159.0" fill="none" stroke="#6C63FF" stroke-width="0.7" opacity="0.20"/>
   <line x1="195" y1="218" x2="195.0" y2="100.0" stroke="#312e81" stroke-width="0.7"/>
-  <line x1="195" y1="218" x2="312.0" y2="167.0" stroke="#312e81" stroke-width="0.7"/>
-  <line x1="195" y1="218" x2="312.0" y2="269.0" stroke="#312e81" stroke-width="0.7"/>
+  <line x1="195" y1="218" x2="297.2" y2="159.0" stroke="#312e81" stroke-width="0.7"/>
+  <line x1="195" y1="218" x2="297.2" y2="277.0" stroke="#312e81" stroke-width="0.7"/>
   <line x1="195" y1="218" x2="195.0" y2="336.0" stroke="#312e81" stroke-width="0.7"/>
-  <line x1="195" y1="218" x2="78.0"  y2="269.0" stroke="#312e81" stroke-width="0.7"/>
-  <line x1="195" y1="218" x2="78.0"  y2="167.0" stroke="#312e81" stroke-width="0.7"/>
-
-  <!-- value polygon: PHP=0.90 .NET=0.80 SQL=0.92 Redis=0.70 Docker=0.65 Payments=0.85 -->
-  <polygon points="195.0,112.8 299.8,172.7 299.5,264.4 195.0,321.8 90.2,266.5 88.6,172.4"
-           fill="#6C63FF" fill-opacity="0.18" stroke="#A855F7" stroke-width="1.6" class="rv" filter="url(#glow)"/>
-
-  <!-- vertex dots -->
-  <circle cx="195.0" cy="112.8" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
-  <circle cx="299.8" cy="172.7" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
-  <circle cx="299.5" cy="264.4" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
-  <circle cx="195.0" cy="321.8" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
-  <circle cx="90.2"  cy="266.5" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
-  <circle cx="88.6"  cy="172.4" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
-
-  <!-- axis labels -->
-  <text x="195.0" y="82.0"  text-anchor="middle" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">PHP/Laravel</text>
-  <text x="336.0" y="156.0" text-anchor="start"  dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">C# / .NET</text>
-  <text x="336.0" y="280.0" text-anchor="start"  dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">SQL</text>
+  <line x1="195" y1="218" x2="92.8" y2="277.0" stroke="#312e81" stroke-width="0.7"/>
+  <line x1="195" y1="218" x2="92.8" y2="159.0" stroke="#312e81" stroke-width="0.7"/>
+  <polygon points="195.0,111.8 276.8,170.8 289.0,272.3 195.0,300.6 128.6,256.4 108.1,167.8" fill="#6C63FF" fill-opacity="0.18" stroke="#A855F7" stroke-width="1.6" class="rv" filter="url(#glow)"/>
+  <circle cx="195.0" cy="111.8" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
+  <circle cx="276.8" cy="170.8" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
+  <circle cx="289.0" cy="272.3" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
+  <circle cx="195.0" cy="300.6" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
+  <circle cx="128.6" cy="256.4" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
+  <circle cx="108.1" cy="167.8" r="3.2" fill="#A855F7" class="dot fi" filter="url(#glow)"/>
+  <text x="195.0" y="78.0" text-anchor="middle" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">PHP/Laravel</text>
+  <text x="316.2" y="148.0" text-anchor="start" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">C# / .NET</text>
+  <text x="316.2" y="288.0" text-anchor="start" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">SQL</text>
   <text x="195.0" y="358.0" text-anchor="middle" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">Redis</text>
-  <text x="54.0"  y="280.0" text-anchor="end"    dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">Docker</text>
-  <text x="54.0"  y="156.0" text-anchor="end"    dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">Payments</text>
-
-  <!-- ── RIGHT: stats ── -->
+  <text x="73.8" y="288.0" text-anchor="end" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">Docker</text>
+  <text x="73.8" y="148.0" text-anchor="end" dominant-baseline="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">Payments</text>
   <text x="418" y="64" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#8b949e">▸ github stats</text>
-
-  <!-- streak -->
   <rect x="418" y="76" width="152" height="70" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="494" y="114" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#A855F7" filter="url(#glow)">–</text>
+  <text x="494" y="114" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#A855F7" filter="url(#glow)">3</text>
   <text x="494" y="134" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#8b949e">current streak</text>
-
-  <!-- week commits -->
   <rect x="580" y="76" width="152" height="70" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="656" y="114" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#6C63FF" filter="url(#glow)">–</text>
+  <text x="656" y="114" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#6C63FF" filter="url(#glow)">38</text>
   <text x="656" y="134" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#8b949e">commits this week</text>
-
-  <!-- total contributions -->
   <rect x="418" y="156" width="152" height="70" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="494" y="194" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#7EE787" filter="url(#glow)">–</text>
+  <text x="494" y="194" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#7EE787" filter="url(#glow)">1106</text>
   <text x="494" y="214" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#8b949e">total contributions</text>
-
-  <!-- best day -->
   <rect x="580" y="156" width="152" height="70" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="656" y="198" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="18" fill="#F2CC60" filter="url(#glow)">–</text>
+  <text x="656" y="194" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="26" fill="#F2CC60" filter="url(#glow)">Tue</text>
   <text x="656" y="214" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="10" fill="#8b949e">most active day</text>
+  <rect x="418" y="246" width="314" height="116" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="430" y="266" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#8b949e">⚡ currently building</text>
 
-  <!-- currently building -->
-  <rect x="418" y="236" width="314" height="126" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="430" y="256" font-family="Courier New,Courier,monospace" font-size="10.5" fill="#8b949e">⚡ currently building</text>
+  <circle cx="436" cy="288" r="4" fill="#A855F7" class="dot"/>
+  <text x="450" y="292" font-family="Courier New,Courier,monospace" font-size="11" fill="#79C0FF">payment-gateway-3ds</text>
+  <text x="450" y="305" font-family="Courier New,Courier,monospace" font-size="9.5" fill="#8b949e">Laravel · Stripe · ArCa · 3DS v2</text>
 
-  <circle cx="436" cy="278" r="4" fill="#A855F7" class="dot"/>
-  <text x="450" y="282" font-family="Courier New,Courier,monospace" font-size="11" fill="#79C0FF">payment-gateway-3ds</text>
-  <text x="450" y="295" font-family="Courier New,Courier,monospace" font-size="9.5" fill="#8b949e">Laravel · Stripe · ArCa · 3DS v2</text>
+  <circle cx="436" cy="328" r="4" fill="#6C63FF" class="dot d1"/>
+  <text x="450" y="332" font-family="Courier New,Courier,monospace" font-size="11" fill="#79C0FF">analytics-dashboard</text>
+  <text x="450" y="345" font-family="Courier New,Courier,monospace" font-size="9.5" fill="#8b949e">Blazor WASM · ApexCharts · Excel</text>
 
-  <circle cx="436" cy="318" r="4" fill="#6C63FF" class="dot d1"/>
-  <text x="450" y="322" font-family="Courier New,Courier,monospace" font-size="11" fill="#79C0FF">analytics-dashboard</text>
-  <text x="450" y="335" font-family="Courier New,Courier,monospace" font-size="9.5" fill="#8b949e">Blazor WASM · ApexCharts · Excel</text>
-
-  <circle cx="436" cy="352" r="4" fill="#58A6FF" class="dot d2" style="display:none"/>
-
-  <!-- bottom bar -->
+  <circle cx="436" cy="368" r="4" fill="#58A6FF" class="dot d2"/>
+  <text x="450" y="372" font-family="Courier New,Courier,monospace" font-size="11" fill="#79C0FF">auth-service</text>
+  <text x="450" y="385" font-family="Courier New,Courier,monospace" font-size="9.5" fill="#8b949e">ASP.NET Core · JWT · Redis</text>
   <rect y="370" width="820" height="30" rx="12" fill="#1e1b4b"/>
   <rect y="370" width="820" height="2"  fill="#312e81"/>
-  <text x="14"  y="389" font-family="Courier New,Courier,monospace" font-size="10" fill="#A855F7">[coding-dna]</text>
+  <text x="14" y="389" font-family="Courier New,Courier,monospace" font-size="10" fill="#A855F7">[coding-dna]</text>
   <circle cx="106" cy="384" r="3.5" fill="#7EE787" class="dot"/>
-  <text x="116"  y="389" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">active</text>
-  <text x="806"  y="389" text-anchor="end"
+  <text x="116" y="389" font-family="Courier New,Courier,monospace" font-size="10" fill="#C4B5FD">active</text>
+  <text x="806" y="389" text-anchor="end"
         font-family="Courier New,Courier,monospace" font-size="10" fill="#6C63FF"
   >mrxflxxm · Asia/Yerevan</text>
 </svg>
