@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 452" width="780" height="452">
+  <defs>
+    <filter id="glow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="win">
+      <rect width="780" height="452" rx="10" ry="10"/>
+    </clipPath>
+    <style>
+      @keyframes fadein { from { opacity: 0 } to { opacity: 1 } }
+      @keyframes blink  { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+      .l   { opacity: 0; animation: fadein 0.05s forwards; }
+      .cur { opacity: 0; animation: blink 1s 7.0s infinite; }
+    </style>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="780" height="452" rx="10" fill="#0D1117"/>
+
+  <!-- Purple glow border -->
+  <rect width="780" height="452" rx="10" fill="none" stroke="#6C63FF" stroke-width="1.5" filter="url(#glow)"/>
+
+  <!-- Title bar -->
+  <rect width="780" height="40" rx="10" fill="#161b22"/>
+  <rect y="30"  width="780" height="10" fill="#161b22"/>
+  <rect y="40"  width="780" height="1"  fill="#30363d"/>
+
+  <!-- Traffic lights -->
+  <circle cx="20" cy="20" r="6" fill="#FF5F57"/>
+  <circle cx="40" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="20" r="6" fill="#28C840"/>
+
+  <!-- Window title -->
+  <text x="390" y="25" text-anchor="middle"
+        font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">
+    mrxflxxm — zsh + tmux — 100×30
+  </text>
+
+  <!-- ═══════════════════════ neofetch ═══════════════════════ -->
+
+  <text class="l" style="animation-delay:0.3s"
+        x="24" y="64" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#A855F7">mrxflxxm</tspan><tspan fill="#6C63FF">@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#E6EDF3">neofetch</tspan>
+  </text>
+
+  <!-- row 1 — box top + user@host -->
+  <g class="l" style="animation-delay:0.9s">
+    <text x="24"  y="86" font-family="Courier New,Courier,monospace" font-size="13" fill="#5B21B6">  ╔═══════╗</text>
+    <text x="120" y="86" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#A855F7">mrxflxxm</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#6C63FF">dev</tspan>
+    </text>
+  </g>
+
+  <!-- row 2 — box mid + separator -->
+  <g class="l" style="animation-delay:1.1s">
+    <text x="24"  y="106" font-family="Courier New,Courier,monospace" font-size="13" fill="#5B21B6">  ║       ║</text>
+    <text x="120" y="106" font-family="Courier New,Courier,monospace" font-size="13" fill="#312e81">──────────────────────────────────</text>
+  </g>
+
+  <!-- row 3 — box Z + role -->
+  <g class="l" style="animation-delay:1.3s">
+    <text x="24" y="126" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#5B21B6">  ║   </tspan><tspan fill="#C084FC">Z</tspan><tspan fill="#5B21B6">   ║</tspan>
+    </text>
+    <text x="120" y="126" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#8b949e">role   </tspan><tspan fill="#E6EDF3">Full-Stack Developer · Backend</tspan>
+    </text>
+  </g>
+
+  <!-- row 4 — box mid + stack -->
+  <g class="l" style="animation-delay:1.5s">
+    <text x="24"  y="146" font-family="Courier New,Courier,monospace" font-size="13" fill="#5B21B6">  ║       ║</text>
+    <text x="120" y="146" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#8b949e">stack  </tspan><tspan fill="#E6EDF3">Laravel · ASP.NET Core · Blazor</tspan>
+    </text>
+  </g>
+
+  <!-- row 5 — box bottom + db -->
+  <g class="l" style="animation-delay:1.7s">
+    <text x="24"  y="166" font-family="Courier New,Courier,monospace" font-size="13" fill="#5B21B6">  ╚═══════╝</text>
+    <text x="120" y="166" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#8b949e">db     </tspan><tspan fill="#E6EDF3">MSSQL · PostgreSQL · Redis · MySQL</tspan>
+    </text>
+  </g>
+
+  <!-- row 6 — pays -->
+  <g class="l" style="animation-delay:1.9s">
+    <text x="120" y="186" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#8b949e">pays   </tspan><tspan fill="#E6EDF3">Stripe · PayPal · ArCa · Evocabank</tspan>
+    </text>
+  </g>
+
+  <!-- row 7 — PHP bar -->
+  <g class="l" style="animation-delay:2.1s">
+    <text x="120" y="206" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#8b949e">PHP    </tspan><tspan fill="#A855F7">████████████████</tspan><tspan fill="#1e1b4b">████</tspan><tspan fill="#8b949e">  4 yr</tspan>
+    </text>
+  </g>
+
+  <!-- row 8 — .NET bar -->
+  <g class="l" style="animation-delay:2.3s">
+    <text x="120" y="226" font-family="Courier New,Courier,monospace" font-size="13">
+      <tspan fill="#8b949e">.NET   </tspan><tspan fill="#6C63FF">████████████</tspan><tspan fill="#1e1b4b">████████</tspan><tspan fill="#8b949e">  3 yr</tspan>
+    </text>
+  </g>
+
+  <!-- ═══════════════════════ cat pinned.txt ═══════════════════════ -->
+
+  <text class="l" style="animation-delay:3.0s"
+        x="24" y="252" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#A855F7">mrxflxxm</tspan><tspan fill="#6C63FF">@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#E6EDF3">cat pinned.txt</tspan>
+  </text>
+
+  <text class="l" style="animation-delay:3.6s"
+        x="24" y="272" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#f2cc60">  → </tspan><tspan fill="#79c0ff">payment-gateway-3ds  </tspan><tspan fill="#8b949e">Laravel · Stripe · ArCa · 3DS v2</tspan>
+  </text>
+
+  <text class="l" style="animation-delay:3.95s"
+        x="24" y="292" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#7ee787">  → </tspan><tspan fill="#79c0ff">analytics-dashboard  </tspan><tspan fill="#8b949e">Blazor WASM · ApexCharts · Excel</tspan>
+  </text>
+
+  <text class="l" style="animation-delay:4.3s"
+        x="24" y="312" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#58a6ff">  → </tspan><tspan fill="#79c0ff">auth-service         </tspan><tspan fill="#8b949e">ASP.NET Core · JWT · Redis</tspan>
+  </text>
+
+  <!-- ═══════════════════════ git log ═══════════════════════ -->
+
+  <text class="l" style="animation-delay:4.9s"
+        x="24" y="338" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#A855F7">mrxflxxm</tspan><tspan fill="#6C63FF">@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#E6EDF3">git log --oneline -3</tspan>
+  </text>
+
+  <text class="l" style="animation-delay:5.5s"
+        x="24" y="358" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#f2cc60">a1b2c3f</tspan><tspan fill="#8b949e">  integrate payment gateway with 3DS auth</tspan>
+  </text>
+
+  <text class="l" style="animation-delay:5.85s"
+        x="24" y="378" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#f2cc60">d4e5f67</tspan><tspan fill="#8b949e">  architect blazor real-time dashboard</tspan>
+  </text>
+
+  <text class="l" style="animation-delay:6.2s"
+        x="24" y="398" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#f2cc60">g7h8i90</tspan><tspan fill="#8b949e">  optimize redis caching &amp; job queues</tspan>
+  </text>
+
+  <!-- ═══════════════════════ final prompt + cursor ═══════════════════════ -->
+
+  <text class="l" style="animation-delay:6.9s"
+        x="24" y="424" font-family="Courier New,Courier,monospace" font-size="13">
+    <tspan fill="#A855F7">mrxflxxm</tspan><tspan fill="#6C63FF">@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan>
+  </text>
+
+  <rect class="cur" x="149" y="412" width="8" height="14" fill="#A855F7" rx="1"/>
+
+  <!-- ═══════════════════════ tmux status bar ═══════════════════════ -->
+  <rect clip-path="url(#win)" y="436" width="780" height="16" fill="#1e1b4b"/>
+  <rect y="436" width="780" height="1" fill="#312e81"/>
+
+  <text x="10" y="448" font-family="Courier New,Courier,monospace" font-size="11" fill="#A855F7">[1]</text>
+  <text x="38" y="448" font-family="Courier New,Courier,monospace" font-size="11" fill="#7ee787">●</text>
+  <text x="52" y="448" font-family="Courier New,Courier,monospace" font-size="11" fill="#C4B5FD">master</text>
+  <text x="770" y="448" text-anchor="end"
+        font-family="Courier New,Courier,monospace" font-size="11" fill="#6C63FF">zsh · mrxflxxm@dev</text>
+</svg>

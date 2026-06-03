@@ -248,14 +248,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
-## 🐍 Contribution Snake
+## 💻 Terminal
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/master/terminal-animation.svg" alt="Terminal Animation" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
