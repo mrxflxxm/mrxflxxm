@@ -266,4 +266,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:512BD4,50:8B5CF6,100:6C63FF&height=140&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/master/footer.svg" alt="footer" />
