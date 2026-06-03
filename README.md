@@ -208,12 +208,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
-## ⏱️ WakaTime Stats
+## 🧬 Coding DNA
 
 <p align="center">
-  <a href="https://wakatime.com/@ce36f782-04a9-4162-b5c2-83604d6ee1a7">
-    <img src="https://wakatime.com/badge/user/ce36f782-04a9-4162-b5c2-83604d6ee1a7.svg?style=for-the-badge" alt="Total time coded since Jun 3 2026" />
-  </a>
+  <img src="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/master/coding-card.svg" alt="Coding DNA — skill radar · github stats · currently building" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
