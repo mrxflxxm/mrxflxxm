@@ -200,6 +200,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/master/metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
+
 ## ⏱️ WakaTime Stats
 
 <p align="center">
@@ -229,6 +237,14 @@
 🛠️  Prefer                  clean APIs over messy frontends
 🔐  Mostly                  private repos — but the stack is real
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
+
+## 🌐 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrxflxxm/mrxflxxm/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:8B5CF6,100:512BD4&height=3" />
 
